@@ -1,5 +1,5 @@
 # Coding Cougs
-* Link to the Slides
+* http://tinyurl.com/yadnuhqo
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 ## Join Us
-* Become a member and [CougSync](https://orgsync.com/158673/chapter)
+* Become a member on [CougSync](https://orgsync.com/158673/chapter)
 
 ---
 
