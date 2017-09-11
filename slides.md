@@ -1,5 +1,5 @@
 # Coding Cougs
-* http://tinyurl.com/yadnuhqo
+* http://tinyurl.com/CodingCougs
 
 ---
 
