@@ -18,7 +18,7 @@
 * Encourage members to seek out opportunities that will expand their knowledge.
 * Organize talks and events by students, faculty and community guests.
 
----
+---g
 
 ## Events
 ![alt text](./docs/assets/img_3065.jpg)
