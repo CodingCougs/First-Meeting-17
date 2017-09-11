@@ -5,6 +5,8 @@
 
 ## Who we are?
 
+* Jiro Farah -- President 
+* Haiden Deaton -- Vice President
 
 ---
 
@@ -19,7 +21,7 @@
 ---
 
 ## Events
-Pictures from the hackathon
+![alt text](./docs/assets/img_3065.jpg)
 
 
 ---
