@@ -1,28 +1,12 @@
 # Coding Cougs
-* http://tinyurl.com/CodingCougs
 
 ---
 
-## Who we are?
+## Agenda
 
-* Jiro Farah -- President 
-* Haiden Deaton -- Vice President
-
----
-
-## Our Vision
-* To foster a culture of learning within the Computer Science community of the Tri-Cities.
-* A collaborative setting for computer science related disciplines.
-* An environment to explore new skills. 
-* Participate in small and large scale coding projects.
-* Encourage members to seek out opportunities that will expand their knowledge.
-* Organize talks and events by students, faculty and community guests.
-
----g
-
-## Events
-![alt text](./docs/assets/img_3065.jpg)
-
+* Introduction
+* Club Goals
+* Suggestions
 
 ---
 
